@@ -1,0 +1,101 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: antiquewhite;
+    font-family:"roboto",sans-serif;
+ 
+    }
+.ovi{
+    font-weight:bold;
+    color: #11999e;
+}
+.container{
+    max-width:900px;
+    background-color:#E4F9F5;
+    margin:0 auto;
+    padding:15px;
+   
+}
+.my-img{
+    width: 90px;
+    height:120px;
+    border:2px solid blue;
+    border-radius:190px;
+    float: left;
+}
+.bio{
+    float: left;
+    padding: 32px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.link{
+    float: right;
+    padding: 26px;
+}
+.link a{
+    text-decoration: none;
+    color: teal;
+    font-weight:bold;
+
+}
+.link a:hover{
+    text-decoration: underline;
+    color: tomato;
+    
+}
+.div-clear{
+    clear: both;
+}
+.common-hr{
+    border:2px solid black;
+    width: 100%;
+    margin:15px auto;
+    border-bottom:none;
+    
+}
+/*----
+personal section start
+---*/
+.section1{
+
+}
+.content{
+    margin-bottom: 25px;
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+}
+.right-div{
+    width:70%;
+    float: left;
+    text-align: justify;
+}
+.div2-left{
+    float:left;
+    width:45%;
+}
+.div2-right{
+    float:right;
+    width:45%;
+}
+.footer{
+    background-color:black;
+    text-align: center;
+    padding: 10px;
+}
+.footer a{
+    color:white;
+    text-decoration: none;
+    margin:18px;
+}
+.footer p{
+    color:white;
+   
+    margin-top:15px;
+}
